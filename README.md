@@ -1,6 +1,6 @@
 # Hi there! I'm Atharv 👋
 
-I’m passionate about all things cyber security. 🛡️ I am currently pursuing my BS from the prestigious **IIT Madras**, where I am building a strong foundation in technology, problem-solving, and critical thinking. 🎓💻
+I’m passionate about all things cyber security. 🛡️ I am currently building a strong foundation in technology, problem-solving, and critical thinking. 🎓💻
 
 ### 🧠 My Passion
 Cyber security fascinates me because it’s always evolving and presents new challenges every day. 🚀 I enjoy learning about how systems can be protected, understanding the latest threats, and exploring ways to make the digital world safer for everyone. 🔐
